@@ -6,3 +6,10 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 *It is a middle stage where you decide which files from the working directory
 are to be committed. This offers some flexibility in making logical commits
+
+How can you use the staging area to make sure you have one commit per logical change?
+*By double-checking my changes and load only the files that make sense into
+the staging area. Then I can check the exact changes that will happen if I
+commit using 'git diff --staged'
+
+
