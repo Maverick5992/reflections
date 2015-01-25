@@ -12,4 +12,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 the staging area. Then I can check the exact changes that will happen if I
 commit using 'git diff --staged'
 
+What are some situations when branches would be helpful in keeping your history organized?
+How would branches help?
+*Branch when you need to experiment or do something outside the main scope
 
