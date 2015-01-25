@@ -23,3 +23,7 @@ What is the result of merging two branches together?
 Why do we represent it in the diagram the way we do?
 *It creates a new commit with 2 parents containing all the changes done at
 both branches
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+*Pros: Always have an updated secondary branch with official master content
+Cons: Maybe I am not ready to merge just yet
